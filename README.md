@@ -1,3 +1,4 @@
 # Neural-Networks
-> Back Propagation
-> Hopfield Network
+> Neural Network
+- Back Propagation
+- Hopfield Network

@@ -2,8 +2,6 @@
 #include <time.h>
 #include <math.h>
 
-using namespace std;
-
 #define PATTERN         4           //The Number Of The Patterns
 #define NEURON_S        2           //The Number Of The S Layer's Neurons 
 #define NEURON_A        2           //The Number Of The A Layer's Neurons 

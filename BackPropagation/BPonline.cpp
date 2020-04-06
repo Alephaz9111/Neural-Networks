@@ -6,6 +6,7 @@
 #include <iterator>
 #include <random>
 #include <string>
+using namespace std;
 
 class Online : public Perceptron {
     public:

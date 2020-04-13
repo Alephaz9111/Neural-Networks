@@ -83,6 +83,12 @@ void Perceptron::weight_init () {
             w1[v][w] = (double)(rand() % 2001) / 1000.0 - 1.0;
         }
     }
+    
+    for ( int v = 0; v < NEURON_R; v++ ) {
+        for ( int w = 0; w < NEURON_A+1; w++ ) {
+            w2[v][w] = (double)(rand() % 2001) / 1000.0 - 1.0;
+        }
+    }
 
 }
 

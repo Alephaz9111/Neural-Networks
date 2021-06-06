@@ -1,4 +1,5 @@
 #include "Perceptron.hpp"
+#include <iostream>
 using namespace std;
 
 int main () {
